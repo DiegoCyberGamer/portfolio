@@ -161,7 +161,7 @@ justify-content:center;
     font-family: var(--Second-Font);
     font-size: 1,875rem; /* 30 px */
 }
-@media(max-width: 700px){
+@media(max-width: 1200px){
 .cabecalho{
     padding: 3% 10% 0% 20%;
 }
