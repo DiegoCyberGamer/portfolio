@@ -18,7 +18,6 @@
 }
 
 body{
-    /* height: 100vh; */
     box-sizing: border-box;
      /* background-color: var(--First-Color);  */
      background-image: url(./background.jpg); 
